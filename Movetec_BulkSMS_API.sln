@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Movetec_BulkSMS_API", "Movetec_BulkSMS_API\Movetec_BulkSMS_API.vbproj", "{9644ADF7-5078-4C7D-B0F9-83E422BB414F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SMS_Web", "SMS_Web\SMS_Web.vbproj", "{A1D85903-AB0C-4D87-A93F-7EFCCB431B50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9644ADF7-5078-4C7D-B0F9-83E422BB414F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9644ADF7-5078-4C7D-B0F9-83E422BB414F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9644ADF7-5078-4C7D-B0F9-83E422BB414F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9644ADF7-5078-4C7D-B0F9-83E422BB414F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D85903-AB0C-4D87-A93F-7EFCCB431B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D85903-AB0C-4D87-A93F-7EFCCB431B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D85903-AB0C-4D87-A93F-7EFCCB431B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D85903-AB0C-4D87-A93F-7EFCCB431B50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D4DC194-08D6-46DC-BBB7-E10D67F1B013}
+	EndGlobalSection
+EndGlobal

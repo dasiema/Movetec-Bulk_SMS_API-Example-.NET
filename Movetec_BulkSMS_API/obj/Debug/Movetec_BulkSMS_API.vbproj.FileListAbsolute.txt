@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Movetec_BulkSMS_API\Movetec_BulkSMS_API\bin\Debug\Movetec_BulkSMS_API.dll
+C:\Users\User\source\repos\Movetec_BulkSMS_API\Movetec_BulkSMS_API\bin\Debug\Movetec_BulkSMS_API.pdb
+C:\Users\User\source\repos\Movetec_BulkSMS_API\Movetec_BulkSMS_API\bin\Debug\Movetec_BulkSMS_API.xml
+C:\Users\User\source\repos\Movetec_BulkSMS_API\Movetec_BulkSMS_API\obj\Debug\Movetec_BulkSMS_API.Resources.resources
+C:\Users\User\source\repos\Movetec_BulkSMS_API\Movetec_BulkSMS_API\obj\Debug\Movetec_BulkSMS_API.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Movetec_BulkSMS_API\Movetec_BulkSMS_API\obj\Debug\Movetec_BulkSMS_API.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Movetec_BulkSMS_API\Movetec_BulkSMS_API\obj\Debug\Movetec_BulkSMS_API.dll
+C:\Users\User\source\repos\Movetec_BulkSMS_API\Movetec_BulkSMS_API\obj\Debug\Movetec_BulkSMS_API.xml
+C:\Users\User\source\repos\Movetec_BulkSMS_API\Movetec_BulkSMS_API\obj\Debug\Movetec_BulkSMS_API.pdb
