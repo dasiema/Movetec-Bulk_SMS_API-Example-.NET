@@ -5,6 +5,11 @@
  
  I use the System.Net.Http library to send a header request to the Movetec SMS endpoint. I will later create classes that will capture the status response from the endpoint which can be used for vaalidation, or futher actions.
  
+ You can register and get your Movetech SMS API Keys here:
+ https://sms.movesms.co.ke/userregister
+ 
+ Then simply replace whe keys in the web.config file with your assigned API Keys.
+ 
  
  'Disclaimer
 '    Copyright (c) 2021 Denis Asiema - https://github.com/dasiema
