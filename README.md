@@ -10,6 +10,12 @@
  
  Then simply replace whe keys in the web.config file with your assigned API Keys.
  
+ Details about the development environment:
+ 
+ IDE: Visual Studio 2019
+ Language: VB .NET
+ Framework: .NET 4.5.1 (Class Library) | ASP.NET MVC 5 (Web UI)
+ 
  
  'Disclaimer
 '    Copyright (c) 2021 Denis Asiema - https://github.com/dasiema
