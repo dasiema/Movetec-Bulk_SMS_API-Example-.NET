@@ -5,20 +5,20 @@
  
  I use the System.Net.Http library to send a header request to the Movetec SMS endpoint. 
  
- The parametersthat are being passed to the endpoint are being picked from the web.config file, however you may bind them from your database object if you are working with a dataset. You may also edit the bindings dynamically from the Web UI interface that is referencing the API Class.
+The parameters that are being passed to the endpoint are being picked from the web.config file, however you may bind them from your database object if you are working with a dataset. You may also edit the bindings dynamically from the Web UI interface that is referencing the API Class.
  
- I will later create classes that will capture the status response from the endpoint which can be used for vaalidation, or further actions.
+I will later create classes that will capture the status response from the endpoint which can be used for validation, or further actions.
  
  You can register and get your Movetech SMS API Keys here:
  https://sms.movesms.co.ke/userregister
  
- Then simply replace whe keys in the web.config file with your assigned API Keys.
+ Then simply replace the keys in the web.config file with your assigned API Keys.
  
  Details about the development environment:
  
  IDE: Visual Studio 2019
  Language: VB .NET
- Framework: .NET 4.5.1 (Class Library) | ASP.NET MVC 5 (Web UI)
+ Framework: .NET 4.5.1 (Class Library) | ASP.NET MVC 5 (Web UI) 
  
  
  'Disclaimer
