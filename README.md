@@ -18,7 +18,7 @@
  
  
  'Disclaimer
-'    Copyright (c) 2021 Denis Asiema - https://github.com/dasiema
+'    Copyright (c) 2021 Dennis Asiema - https://github.com/dasiema
 
 'Permission Is hereby granted, free of charge, to any person
 'obtaining a copy Of this software And associated documentation
