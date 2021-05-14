@@ -7,7 +7,7 @@
  
 The parameters that are being passed to the endpoint are being picked from the web.config file, however you may bind them from your database object if you are working with a dataset. You may also edit the bindings dynamically from the Web UI interface that is referencing the API Class.
  
-I will later create classes that will capture the status response from the endpoint which can be used for validation, or further actions.
+I will later create classes that will capture the status response from the endpoint and bind them to a response object which can then be passed on and used for validation, or for further actions.
  
  You can register and get your Movetech SMS API Keys here:
  https://sms.movesms.co.ke/userregister
