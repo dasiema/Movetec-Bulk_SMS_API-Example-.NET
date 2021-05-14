@@ -1,9 +1,9 @@
 # Movetec Bulk_SMS_API Example .NET
- In this project I briefly demonstrate how to send an SMS to any mobile carier in Kenya using the Movetec SMS API.
+ In this project I briefly demonstrate how to send an SMS to any mobile carrier in Kenya using the Movetec SMS API.
  
  Here I create an API Class Library with parameters to the Movetec Bulk SMS API and reference it to a sample ASP.NET web application. 
  
- I use the System.Net.Http library to send a header request to the Movetec SMS endpoint. I will later create classes that will capture the status response from the endpoint which can be used for vaalidation, or futher actions.
+ I use the System.Net.Http library to send a header request to the Movetec SMS endpoint. I will later create classes that will capture the status response from the endpoint which can be used for vaalidation, or further actions.
  
  You can register and get your Movetech SMS API Keys here:
  https://sms.movesms.co.ke/userregister
