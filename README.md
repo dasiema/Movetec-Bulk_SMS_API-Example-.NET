@@ -3,7 +3,11 @@
  
  Here I create an API Class Library with parameters to the Movetec Bulk SMS API and reference it to a sample ASP.NET web application. 
  
- I use the System.Net.Http library to send a header request to the Movetec SMS endpoint. I will later create classes that will capture the status response from the endpoint which can be used for vaalidation, or further actions.
+ I use the System.Net.Http library to send a header request to the Movetec SMS endpoint. 
+ 
+ The parametersthat are being passed to the endpoint are being picked from the web.config file, however you may bind them from your database object if you are working with a dataset. You may also edit the bindings dynamically from the Web UI interface that is referencing the API Class.
+ 
+ I will later create classes that will capture the status response from the endpoint which can be used for vaalidation, or further actions.
  
  You can register and get your Movetech SMS API Keys here:
  https://sms.movesms.co.ke/userregister
